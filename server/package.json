@@ -1,0 +1,11 @@
+{
+  "name": "task-manager-ceo-server",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "better-sqlite3": "^13.0.0",
+    "express": "^5.1.0"
+  }
+}
